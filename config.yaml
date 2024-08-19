@@ -1,0 +1,10 @@
+log_directory: ./logs
+output_csv: output.csv
+columns:
+  - 句子
+  - 错误开始位置
+  - 错误词
+  - 建议词
+  - 模块
+  - 错误类型
+  - 错误原因
